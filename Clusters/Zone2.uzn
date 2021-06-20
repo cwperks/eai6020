@@ -1,0 +1,16 @@
+48 28 622 68 Deceased
+678 32 262 60 IntermentNo
+51 100 273 63 DateOfInterment
+332 105 117 54 Section
+458 102 140 58 LotTer
+608 103 84 55 Grave
+701 102 106 59 Age
+819 101 120 59 Veteran
+55 172 881 42 Undertaker
+57 219 877 44 Vault
+58 268 485 36 LotOwner
+548 268 390 38 Relation
+56 363 501 42 NextOfKin
+562 363 380 39 NextOfKinRelation
+57 411 875 39 NextOfKinAddress
+58 457 878 89 Remarks
