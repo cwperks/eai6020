@@ -32,5 +32,6 @@ This will install:
 - opencv-python
 - matplotlib
 - PIL
+- Google Cloud python
 
 All of the code is separated into Python notebooks. The primary python notebook showing all work with tesseract is eai6020-tesseract.ipynb. For notebooks showing the use of the different cloud services please find the corresponding notebook with its name. A separate file will be sent with authentication details for the cloud services.
