@@ -34,4 +34,12 @@ This will install:
 - PIL
 - Google Cloud python
 
-All of the code is separated into Python notebooks. The primary python notebook showing all work with tesseract is eai6020-tesseract.ipynb. For notebooks showing the use of the different cloud services please find the corresponding notebook with its name. A separate file will be sent with authentication details for the cloud services.
+All of the code is separated into Python notebooks. The primary python notebook showing all work with tesseract is `eai6020-tesseract.ipynb`. For notebooks showing the use of the different cloud services please find the corresponding notebook with its name. A separate file will be sent with authentication details for the cloud services.
+
+# Navigation
+
+- Notebooks are in the `notebook/` directory. The primary notebook is `eai6020-tesseract.ipynb`.
+- Results are in `Results/`
+- The Clusters are in `Clusters/` - The notebook generates this as well. Original images are in a folder with the same name they were provided to us.
+- If you want to run the cloud services you can find the secrets bundle into the zip of this project - these are not available on the Github.
+- The Github link to this project is https://github.com/cwperks/eai6020
